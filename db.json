@@ -1,0 +1,78 @@
+{
+    "products": [
+      {
+        "id": "1",
+        "name": "Amaize Maize Meal Flour",
+        "price": 98,
+        "image": "img/1 (1).jpg"
+      },
+      {
+        "id": "2",
+        "name": "Ailyons Iron Box",
+        "price": 890,
+        "image": "img/Ailyons Iron Box.jpg"
+      },
+      {
+        "id": "3",
+        "name": "Ballantines Fine Blended Scotch Whisky 750ml ",
+        "price": 1400,
+        "image": "img/Ballantines.jpg"
+      },
+      {
+        "id": "4",
+        "name": "Banana Fruits",
+        "price": 210,
+        "image": "img/banana-7474703_640.jpg"
+      },
+      {
+        "id": "5",
+        "name": "Ushindi Bar Soap",
+        "price": 99,
+        "image": "img/Barsoap.jpg"
+      },
+      {
+        "id": "6",
+        "name": "Besundy Blue Tooth EarBuds",
+        "price": 670,
+        "image": "img/bt buds.jpg"
+      },
+      {
+        "id": "7",
+        "name": "Chrome Vodka",
+        "price": 755,
+        "image": "img/chrome.jpg"
+      },
+      {
+        "id": "8",
+        "name": "Midea Mini-Microwave",
+        "price": 5499,
+        "image": "img/Cleaning_Supplies.png"
+      },
+      {
+        "id": "9",
+        "name": "Men's fashion leather shoes",
+        "price": 2500,
+        "image": "img/leather-shoes-2661249_640.jpg"
+      },
+      {
+        "id": "10",
+        "name": "Ramtons Mini-fridge",
+        "price": 17800,
+        "image": "img/Ramtons mini-fridge.jpg"
+      },
+      {
+        "id": "11",
+        "name": "Jembe Unga Halisi",
+        "price": 80,
+        "image": "img/unga.jpg"
+      },
+      {
+        "id": "12",
+        "name": "Top Fry Cooking Oil 5Ltrs",
+        "price": 1600,
+        "image": "img/Top Fry.jpg"
+      }
+      
+    ],
+    "cart": []
+  }
