@@ -26,8 +26,7 @@ Users have access ti functionalities such as a product list, adding and removing
 - [Sydney Onyango](https://github.com/sydneyonyango)
 
 ## Video Explainer on the site's functionality: 
-kazam_8jcsyh04.movie.mp4
-
+https://github.com/user-attachments/assets/cd73bc28-f920-4f4d-8b6d-6af5079f3f30
 
 
 
