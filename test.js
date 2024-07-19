@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // Fetch products from local db.json
     async function fetchProducts(query = '') {
-        const response = await fetch('http://localhost:3000/products');
+        const response = await fetch('https://my-json-server.typicode.com/WalterSyd/Project-1-Deploy/products');
         const products = await response.json();
         return products.filter(product => product.name.toLowerCase().includes(query.toLowerCase()));
     }
